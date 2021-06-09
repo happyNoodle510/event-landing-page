@@ -1,0 +1,31 @@
+.puppies {
+    width: 18rem;
+}
+
+.center-cropped {
+    width: 50vw;
+    height: 40vh;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.tiny-tank {
+    background-image: url(https://images.unsplash.com/photo-1593134257782-e89567b7718a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80);
+}
+
+.smiley-sunshine {
+    background-image: url(https://images.unsplash.com/photo-1596653048881-dc30d5b20b00?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=708&q=80);
+}
+
+.rolly-ruben {
+    background-image: url(https://images.unsplash.com/photo-1529906920574-628dc1e49f5a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=747&q=80);
+}
+
+.serious-simone {
+    background-image: url(https://images.unsplash.com/photo-1600615614799-2cd68cb75705?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+}
+
+/* .round-pics {
+    max-height: 30%;
+} */
